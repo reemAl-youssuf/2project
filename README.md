@@ -1,5 +1,3 @@
-# 2project
-git/second year
 <head>
 <script src="jquery.js"></script>
 <script>
